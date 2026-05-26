@@ -62,10 +62,10 @@ A live Nigerian fintech product on the Google Play Store. CrediSure connects bor
 
 ---
 
-### 🏘️ Hillcrest
-[Add 1-2 sentences about what Hillcrest does and your role here]
+### 🏘️ Hillcrest Management
+A Flutter application featuring biometric authentication, KYC (Know Your Customer) functionality separated into its own repository, and Paystack payment gateway integration.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Ezeh/hillcrest)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Ezeh/hillcrest_management)
 
 ---
 
@@ -115,7 +115,7 @@ Flutter app with an integrated NLP sentiment model — users submit text and get
 
 ## 📌 Currently
 
-- 🔨 Building **Hillcrest** (open source)
+- 🔨 Building **Hillcrest Management** (open source)
 - 📚 Going deeper on **Node.js** and backend architecture  
 - 🚀 Exploring **Flutter Web** for full-stack products
 
