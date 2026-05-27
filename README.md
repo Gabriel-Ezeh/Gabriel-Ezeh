@@ -55,7 +55,7 @@ I write clean, maintainable Dart, care deeply about UX, and know how to take a p
 ### 💳 CrediSure — Fintech Credit Platform *(Lead Engineer)*
 A live Nigerian fintech product on the Google Play Store. CrediSure connects borrowers and lenders using alternative credit scoring — serving individuals and SMEs locked out of traditional banking. I led mobile engineering: Flutter app across auth flows, credit dashboards, KYC integration, and real-time financial data.
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.credisure.app)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/search?q=credisure&c=apps)
 [![Website](https://img.shields.io/badge/Website-2D9CDB?style=for-the-badge&logo=firefox&logoColor=white)](https://www.credisure.ng)
 
 > *Private repo — production app*
@@ -63,7 +63,7 @@ A live Nigerian fintech product on the Google Play Store. CrediSure connects bor
 ---
 
 ### 🏘️ Hillcrest Management
-A Flutter application featuring biometric authentication, KYC (Know Your Customer) functionality separated into its own repository, and Paystack payment gateway integration.
+Hillcrest Management is a secure, production-grade Flutter financial application. It serves as a management interface handling KYC (Know Your Customer) compliance, biometric security (fingerprint/face unlock using `local_auth`), user authentication, and investment payment processing via Paystack. The application features a robust Clean Architecture pattern utilizing Riverpod for state management, Hive for offline biometric caching, and secure token storage.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Ezeh/hillcrest_management)
 
@@ -80,6 +80,27 @@ Full-featured shopping app with product listings, cart management, Firebase auth
 Flutter app with an integrated NLP sentiment model — users submit text and get real-time emotional tone feedback. One of the few Flutter devs combining mobile UI with ML pipelines.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Ezeh/Sentiment-Analysis-System-with-Flutter)
+
+---
+
+### 📦 NexusDispatch
+AI-Powered Corporate Resource & Asset Dispatcher built in Kotlin, Room, Coroutines, and Jetpack Compose. An enterprise-focused platform engineered natively for automated reservation and physical dispatch of high-value corporate resources with full offline-first data redundancy.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Ezeh/NexusDispatch)
+
+---
+
+### 🛡️ VeriLedger (AeroTrack)
+AI-Powered Corporate Expense Audit & Fraud Scanner built with Kotlin, Jetpack Compose, and Room. A high-security, production-grade corporate financial ledger and auditing application designed as an offline-first Risk Mitigation Engine for processing reimbursements and detecting compliance violations.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Ezeh/AeroTrack)
+
+---
+
+### 👟 SneakersVaultNG
+A modern, full-featured E-commerce Android application dedicated to sneaker enthusiasts. Built with Jetpack Compose, Room for offline capabilities, Retrofit for networking, and Coil for images, following Clean Architecture principles for a seamless shopping experience.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Ezeh/ecommerce-sneakers-android-app)
 
 ---
 
